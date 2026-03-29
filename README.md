@@ -12,13 +12,6 @@ A comprehensive business intelligence project analyzing **$2.26M in retail sales
 
 ---
 
-## 📸 Dashboard Preview
-
-### Page 1 — Overview & Trends
-![Dashboard Overview](dashboard_overview.png)
-
-### Page 2 — Product, Customer & Regional Breakdown
-![Dashboard Detail](dashboard_detail.png)
 
 ---
 
@@ -98,20 +91,6 @@ A retail superstore operating across 4 regions in the United States needed to un
 - **Top N product and customer tables** with conditional formatting
 
 ---
-
-## 📁 Project Structure
-
-```
-Superstore-Sales-Analysis/
-│
-├── README.md                  ← You are here
-├── Superstore_Sales.csv       ← Raw dataset
-├── Superstore_Analysis.xlsx   ← Excel exploration & pivot analysis
-├── Superstore_Dashboard.pbix  ← Power BI Desktop file
-└── screenshots/
-    ├── dashboard_overview.png
-    └── dashboard_detail.png
-```
 
 ---
 
